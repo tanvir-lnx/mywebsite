@@ -61,21 +61,21 @@ const AchievementsSection = () => {
       issuer: "WADHWANI",
       date: "Apr 2025",
       link: "https://web.certificate.wfglobal.org/en/certificate?certificateId=680a5928eeacc2785e405a56",
-      image: "src/assets/images/wadhani-cer.png", // Provide your image path
+      image: "https://i.postimg.cc/NMCBcN1k/Screenshot-From-2025-05-07-01-32-00.png", // Provide your image path
     },
     {
       title: "KAIZEN: Improve your Career Growth",
       issuer: "goedu",
       date: "May 2025",
       link: "https://goedu.ac/certificates/b6d12c7beed63a1e3ffbc4ac3995c7cd/",
-      image: "src/assets/images/goedu-certificate-instructor-humayun-kabir-1.png", // Provide your image path
+      image: "https://i.postimg.cc/1z9QNxBK/goedu-certificate-instructor-humayun-kabir-1.png", // Provide your image path
     },
     {
       title: "Critical Thinking for Professional Success",
       issuer: "goedu",
       date: "May 2025",
       link: "https://goedu.ac/certificates/da60654ebc788403124bc422352b8424/",
-      image: "src/assets/images/goedu-certificate-instructor-foyjunnasa-1.png", // Provide your image path
+      image: "https://i.postimg.cc/28Zms73n/goedu-certificate-instructor-foyjunnasa-1.png", // Provide your image path
     },
   ];
 
