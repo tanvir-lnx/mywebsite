@@ -54,7 +54,7 @@ const AchievementsSection = () => {
       issuer: "Ostad",
       date: "Mar 2025",
       link: "https://ostad.app/share/certificate/c23594-tanvir-siddik",
-      image: "src/assets/images/python-certificate.png", // Provide your image path
+      image: "https://i.postimg.cc/zB73RSTy/python-certificate.png", // Provide your image path
     },
     {
       title: "JobReady-Employability Skills",
