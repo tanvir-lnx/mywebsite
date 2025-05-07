@@ -14,16 +14,16 @@ const projects = [
     title: "Pharmacy Management",
     description:
       "A desktop-based pharmacy management system with SQLite database integration, supporting inventory tracking for 21,000+ medicines, purchase and sales processing, and real-time summary reporting with chart and table views.",
-    src: "rock.jpg",
-    link: "src/assets/images/pharmacy.png",
+    link: "https://i.postimg.cc/xTCg86Lb/pharmacy.png",
     color: "#5196fd",
     githubLink: "https://github.com/TanvirSiddik/PharmacyManagement",
     // Add techStack with logo URLs or paths
     techStack: [
-        'src/assets/images/java.svg',
-        'src/assets/images/javafx.svg',
-        'src/assets/images/sqlite.png',
-        'src/assets/images/intellij-idea.png',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg',
         // Add other logos relevant to Olova
     ],
   },
@@ -32,14 +32,16 @@ const projects = [
     description:
       "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
     src: "tree.jpg",
-    link: "src/assets/images/image.png",
+    link: "https://i.postimg.cc/W4MwCCcx/image.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
+    githubLink: "https://github.com/tanvir-lnx/mywebsite",
     techStack: [
-        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg',
-        'src/assets/images/html.svg',
-        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg',
         'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg',
+        'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg',
         // Add other logos relevant to this portfolio project
     ],
   },
